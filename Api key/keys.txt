@@ -1,0 +1,8 @@
+Endpoint:
+https://paper-api.alpaca.markets
+
+API Key ID:
+********************
+
+Secret Key:
+***********************************
